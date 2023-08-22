@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - 🦙 I like Llamas
 - 🌴 Im really just trying to show off to my freinds lol.
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/TheLlamainator?theme=unicorn&font=Itim&site=cn)
+![Leetcode Stats](https://leetcard.jacoblin.cool/TheLlamainator?theme=unicorn&font=Mina)
