@@ -18,5 +18,3 @@ Here are some ideas to get you started:
 - 🌴 Im really just trying to show off to my freinds lol.
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/TheLlamainator?theme=unicorn&font=Mina)
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/3ec4fa09-ec8a-4944-8d0d-c31d0ae6194c/deploy-status)](https://app.netlify.com/sites/flashcardstohelpstudy/deploys)
