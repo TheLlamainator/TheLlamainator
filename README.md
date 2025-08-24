@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/TheLlamainator?theme=unicorn&font=Mina)
 
-
+[![TheLlamainator's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheLlamainator)](https://github.com/anuraghazra/github-readme-stats)
